@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component rendering renders correctly with default props 1`] = `
+<div
+  className="container "
+>
+  <Beans
+    className="beans"
+  >
+    
+  </Beans>
+  <p
+    className="total"
+  >
+    Total: 
+    <strong>
+      32
+    </strong>
+  </p>
+  <Button
+    className="button"
+    onClick={undefined}
+  >
+    +increment
+  </Button>
+</div>
+`;

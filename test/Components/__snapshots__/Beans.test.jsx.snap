@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component rendering renders correctly with children 1`] = `
+<ul
+  className="beans "
+>
+  <li>
+    <div />
+  </li>
+  <li>
+    <p />
+  </li>
+</ul>
+`;
+
+exports[`Component rendering renders correctly with className set 1`] = `
+<ul
+  className="beans customClassName"
+/>
+`;
+
+exports[`Component rendering renders correctly with default props 1`] = `
+<ul
+  className="beans "
+/>
+`;

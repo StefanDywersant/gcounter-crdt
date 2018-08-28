@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component rendering renders correctly with children 1`] = `
+<button
+  className="button "
+  onClick={undefined}
+>
+  Test button
+</button>
+`;
+
+exports[`Component rendering renders correctly with className set 1`] = `
+<button
+  className="button customClassName"
+  onClick={undefined}
+/>
+`;
+
+exports[`Component rendering renders correctly with default props 1`] = `
+<button
+  className="button "
+  onClick={undefined}
+/>
+`;

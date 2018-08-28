@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component rendering renders correctly with default props 1`] = `
+<div
+  className="bean"
+  style={
+    Object {
+      "marginLeft": "0px",
+      "marginTop": "0px",
+    }
+  }
+/>
+`;
+
+exports[`Component rendering renders correctly with slides 1`] = `
+<div
+  className="bean"
+  style={
+    Object {
+      "marginLeft": "4px",
+      "marginTop": "1px",
+    }
+  }
+/>
+`;

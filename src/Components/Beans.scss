@@ -1,0 +1,11 @@
+.beans {
+	padding: 0;
+
+	display: flex;
+	flex-wrap: wrap;
+	align-content: flex-start;
+
+	> li {
+		list-style: none;
+	}
+}
