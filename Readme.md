@@ -1,6 +1,7 @@
 # G-Counter CRDT demo
 Demo implementation of Grow-only counter using [Conflict-free replicated data type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type).
 
+### [Online demo here](https://stefandywersant.github.io/gcounter-crdt/)
 
 ## Installation
 ```sh
