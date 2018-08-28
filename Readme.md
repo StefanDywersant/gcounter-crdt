@@ -1,5 +1,5 @@
 # G-Counter CRDT demo
-Dome implementation of Grow-only counter using [Conflict-free replicated data type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type).
+Demo implementation of Grow-only counter using [Conflict-free replicated data type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type).
 
 
 ## Installation
